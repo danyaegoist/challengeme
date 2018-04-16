@@ -1,0 +1,23 @@
+{
+  "public": {},
+  "private": {
+    "MAIL_URL": "smtp://cacxfff@gmail.com:password@hostname.com:587",
+    "OAuth": {
+      "facebook": {
+        "appId": "",
+        "secret": "",
+        "loginStyle": "popup"
+      },
+      "google": {
+        "clientId": "",
+        "secret": "",
+        "loginStyle": "popup"
+      },
+      "github": {
+        "clientId": "",
+        "secret": "",
+        "loginStyle": "popup"
+      }
+    }
+  }
+}
