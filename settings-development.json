@@ -1,7 +1,7 @@
 {
   "public": {},
   "private": {
-    "MAIL_URL": "smtp://cacxfff@gmail.com:password@hostname.com:587",
+    "MAIL_URL": "",
     "OAuth": {
       "facebook": {
         "appId": "",
